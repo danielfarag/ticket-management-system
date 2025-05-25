@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import '~@splidejs/splide/dist/css/splide.min.css';
+
+@import '~@fortawesome/fontawesome-free/css/all.min';
+
+@import '~bootstrap/dist/css/bootstrap.min.css';

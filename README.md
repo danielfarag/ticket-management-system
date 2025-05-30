@@ -10,18 +10,17 @@
 ## Ticket Management System
 
 ### Screenshots
+![Sample 1](images/1.jpg)
 
-![Sample 1](./images/1.jpg)
+![Sample 2](images/2.jpg)
 
-![Sample 2](./images/2.jpg)
+![Sample 5](images/5.jpg)
 
-![Sample 5](./images/5.jpg)
+![Sample 06](images/06.jpg)
 
-![Sample 06](./images/06.jpg)
+![Sample 007](images/007.jpg)
 
-![Sample 007](./images/007.jpg)
-
-![Sample 008](./images/008.jpg)
+![Sample 008](images/008.jpg)
 
 
 
